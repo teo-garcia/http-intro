@@ -11,6 +11,7 @@
   "author": "teo-garcia",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.3",
     "pidusage": "^3.0.2"
   }
 }
